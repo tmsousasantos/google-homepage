@@ -22,8 +22,8 @@ li a {
     color: black;
     opacity: .55 ;
     position: relative;
-    top: 8px;
-    right: 2px;
+    top: -4px;
+    right: -2px;
 }
 #login {
     background-color: #4285f4;
